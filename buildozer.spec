@@ -1,4 +1,5 @@
 [app]
+source.dir = .
 title = Fruit Ninja 
 package.name = myapp
 package.domain = org.test
